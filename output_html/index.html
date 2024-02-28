@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HTML Files List</title>
+</head>
+<body>
+    <h1>List of HTML Files</h1>
+    <ul>
+        {% for filename in html_files %}
+            <li><a href="{{ filename }}" onclick="logLocalPath('{{ filename }}')">{{ filename }}</a></li>
+        {% endfor %}
+    </ul>
+    <script>
+        function logLocalPath(filename) {
+            console.log("Accessing local path: " + window.location.href + filename);
+        }
+    </script>
+</body>
+</html>

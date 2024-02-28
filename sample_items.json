@@ -1,0 +1,87 @@
+[
+    {
+        "_id": "65ddd92be4e0e4ccb192ef38",
+        "name": "heart-shaped eyes[Eyes]",
+        "desc": "The cat has heart-shaped eyes."
+    },
+    {
+        "_id": "65ddd92be4e0e4ccb192ef39",
+        "name": "zombie[Type]",
+        "desc": "The cat is zombie-like."
+    },
+    {
+        "_id": "65ddd92be4e0e4ccb192ef3a",
+        "name": "turban[Hats]/zombie[Type]",
+        "desc": "The cat is earing a turban.\nThe cat is zombie-like."
+    },
+    {
+        "_id": "65ddd92be4e0e4ccb192ef3b",
+        "name": "scarf[Accessory]/turban[Hats]",
+        "desc": "The cat is wearing scarf.\nThe cat is earing a turban."
+    },
+    {
+        "_id": "65ddd92be4e0e4ccb192ef3c",
+        "name": "scarf[Accessory]/Oxfords[Clothes]/bird[Pet]",
+        "desc": "The cat is wearing scarf.\nThe cat is wearing Oxfords.\nThe cat is has a pet bird."
+    },
+    {
+        "_id": "65ddd92be4e0e4ccb192ef3d",
+        "name": "Oxfords[Clothes]/laughing[Mouth]/skate board[Vehicle]",
+        "desc": "The cat is wearing Oxfords.\nThe cat has a laughing mouth.\nThe cat is on a skate board."
+    },
+    {
+        "_id": "65ddd92be4e0e4ccb192ef3e",
+        "name": "Oxfords[Clothes]/laughing[Mouth]/zombie[Type]/skate board[Vehicle]",
+        "desc": "The cat is wearing Oxfords.\nThe cat has a laughing mouth.\nThe cat is zombie-like.\nThe cat is on a skate board."
+    },
+    {
+        "_id": "65ddd92be4e0e4ccb192ef3f",
+        "name": "scarf[Accessory]/heart-shaped eyes[Eyes]/laughing[Mouth]/bird[Pet]",
+        "desc": "The cat is wearing scarf.\nThe cat has heart-shaped eyes.\nThe cat has a laughing mouth.\nThe cat is has a pet bird."
+    },
+    {
+        "_id": "65ddd92be4e0e4ccb192ef40",
+        "name": "Oxfords[Clothes]/heart-shaped eyes[Eyes]/laughing[Mouth]/bird[Pet]/racing car[Vehicle]",
+        "desc": "The cat is wearing Oxfords.\nThe cat has heart-shaped eyes.\nThe cat has a laughing mouth.\nThe cat is has a pet bird.\nThe cat is on a racing car."
+    },
+    {
+        "_id": "65ddd92be4e0e4ccb192ef41",
+        "name": "scarf[Accessory]/Oxfords[Clothes]/turban[Hats]/zombie[Type]/skate board[Vehicle]",
+        "desc": "The cat is wearing scarf.\nThe cat is wearing Oxfords.\nThe cat is earing a turban.\nThe cat is zombie-like.\nThe cat is on a skate board."
+    },
+    {
+        "_id": "65ddd92be4e0e4ccb192ef42",
+        "name": "scarf[Accessory]/turban[Hats]/laughing[Mouth]/zombie[Type]/skate board[Vehicle]/mallet[Weapon]",
+        "desc": "The cat is wearing scarf.\nThe cat is earing a turban.\nThe cat has a laughing mouth.\nThe cat is zombie-like.\nThe cat is on a skate board.\nThe cat is holding a mallet."
+    },
+    {
+        "_id": "65ddd92be4e0e4ccb192ef43",
+        "name": "Oxfords[Clothes]/turban[Hats]/laughing[Mouth]/zombie[Type]/racing car[Vehicle]/mallet[Weapon]",
+        "desc": "The cat is wearing Oxfords.\nThe cat is earing a turban.\nThe cat has a laughing mouth.\nThe cat is zombie-like.\nThe cat is on a racing car.\nThe cat is holding a mallet."
+    },
+    {
+        "_id": "65ddd92be4e0e4ccb192ef44",
+        "name": "scarf[Accessory]/Oxfords[Clothes]/heart-shaped eyes[Eyes]/turban[Hats]/laughing[Mouth]/zombie[Type]/mallet[Weapon]",
+        "desc": "The cat is wearing scarf.\nThe cat is wearing Oxfords.\nThe cat has heart-shaped eyes.\nThe cat is earing a turban.\nThe cat has a laughing mouth.\nThe cat is zombie-like.\nThe cat is holding a mallet."
+    },
+    {
+        "_id": "65ddd92be4e0e4ccb192ef45",
+        "name": "scarf[Accessory]/Oxfords[Clothes]/heart-shaped eyes[Eyes]/turban[Hats]/laughing[Mouth]/zombie[Type]/racing car[Vehicle]",
+        "desc": "The cat is wearing scarf.\nThe cat is wearing Oxfords.\nThe cat has heart-shaped eyes.\nThe cat is earing a turban.\nThe cat has a laughing mouth.\nThe cat is zombie-like.\nThe cat is on a racing car."
+    },
+    {
+        "_id": "65ddd92be4e0e4ccb192ef46",
+        "name": "Oxfords[Clothes]/heart-shaped eyes[Eyes]/turban[Hats]/laughing[Mouth]/bird[Pet]/zombie[Type]/skate board[Vehicle]/mallet[Weapon]",
+        "desc": "The cat is wearing Oxfords.\nThe cat has heart-shaped eyes.\nThe cat is earing a turban.\nThe cat has a laughing mouth.\nThe cat is has a pet bird.\nThe cat is zombie-like.\nThe cat is on a skate board.\nThe cat is holding a mallet."
+    },
+    {
+        "_id": "65ddd92be4e0e4ccb192ef47",
+        "name": "scarf[Accessory]/Oxfords[Clothes]/heart-shaped eyes[Eyes]/laughing[Mouth]/bird[Pet]/zombie[Type]/skate board[Vehicle]/mallet[Weapon]",
+        "desc": "The cat is wearing scarf.\nThe cat is wearing Oxfords.\nThe cat has heart-shaped eyes.\nThe cat has a laughing mouth.\nThe cat is has a pet bird.\nThe cat is zombie-like.\nThe cat is on a skate board.\nThe cat is holding a mallet."
+    },
+    {
+        "_id": "65ddd92be4e0e4ccb192ef48",
+        "name": "scarf[Accessory]/Oxfords[Clothes]/heart-shaped eyes[Eyes]/turban[Hats]/laughing[Mouth]/bird[Pet]/zombie[Type]/skate board[Vehicle]/mallet[Weapon]",
+        "desc": "The cat is wearing scarf.\nThe cat is wearing Oxfords.\nThe cat has heart-shaped eyes.\nThe cat is earing a turban.\nThe cat has a laughing mouth.\nThe cat is has a pet bird.\nThe cat is zombie-like.\nThe cat is on a skate board.\nThe cat is holding a mallet."
+    }
+]
